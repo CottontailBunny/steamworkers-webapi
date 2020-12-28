@@ -1,0 +1,29 @@
+{
+  
+  "name": "steamworkers-webapi",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steam",
+    "api",
+    "steamapi",
+    "steamworkers"
+  ],
+  "bugs": {
+		"web": "https://github.com/Gratrunka/steamworkers-webapi/issues"
+	},
+	"repository": {
+		"type": "git",
+    "url": "https://github.com/Gratrunka/steamworkers-webapi"
+	},
+	"homepage": "https://github.com/Gratrunka/steamworkers-webapi#readme",
+  "author": "gratrunk",
+  "license": "ISC",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
+}
